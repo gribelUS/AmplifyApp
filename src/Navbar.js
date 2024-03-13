@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Navbar () {
 <nav class="navbar navbar-default">
     <div class="container-fluid">
@@ -19,3 +21,5 @@ function Navbar () {
     </div>
 </nav>
 }
+
+export default Navbar;

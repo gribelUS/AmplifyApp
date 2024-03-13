@@ -9,6 +9,9 @@ function App() {
       <h2>Section - 02</h2>
       <p>WVU ID: 800394502</p>
       <p>Hi, I am Tiago.</p>
+      <Card></Card>
+      <Card></Card>
+      <Card></Card>
     </div>
   );
 }

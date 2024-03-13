@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Card () {
     <div class="row">
         <div class="col-sm-6">
@@ -10,3 +12,5 @@ function Card () {
         </div>
     </div>
 }
+
+export default Card;
