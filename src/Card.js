@@ -1,7 +1,7 @@
 function Card() {
     return (
         <div class = "card-group">
-        <div className="card" class="rounded" style={{ width: "10rem", margin: '5px', backgroundColor:'blue', }}>
+        <div className="card" class="rounded" style={{ width: "12rem", margin: '5px', backgroundColor:'blue', }}>
         <div className="card-body" style={{}}>
           <h5 className="card-title" class="card-container d-flex justify-content-center" style={{color:'white'}}>Card 01</h5>
           <p className="card-text" style={{color:'white'}}>
@@ -10,7 +10,7 @@ function Card() {
           </p>
         </div>
       </div>
-      <div className="card" class="rounded" style={{ width: '10rem', margin: '5px', backgroundColor:'red'}}>
+      <div className="card" class="rounded" style={{ width: '12rem', margin: '5px', backgroundColor:'red'}}>
       <div className="card-body" style={{}}>
         <h5 className="card-title" class="card-container d-flex justify-content-center" style={{color:'white'}}>Card 02</h5>
         <p className="card-text" style={{color:'white'}}>
@@ -20,7 +20,7 @@ function Card() {
       </div>
     </div>
 
-    <div className="card" class="rounded" style={{ width: '10rem', margin: '5px', backgroundColor:'green'}}>
+    <div className="card" class="rounded" style={{ width: '12rem', margin: '5px', backgroundColor:'green'}}>
       <div className="card-body" style={{}}>
         <h5 className="card-title" class="card-container d-flex justify-content-center" style={{color:'white'}}>Card 03</h5>
         <p className="card-text" style={{color:'white'}}>
