@@ -1,5 +1,6 @@
 
 function Card () {
+    return(
     <div class="row">
         <div class="col-sm-6">
             <div class="card">
@@ -10,6 +11,7 @@ function Card () {
             </div>
         </div>
     </div>
+    );
 }
 
 export default Card;

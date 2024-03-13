@@ -1,5 +1,6 @@
 
-function Navbar () {
+function Navbar() {
+    return (
 <nav class="navbar navbar-default">
     <div class="container-fluid">
         <div class="navbar-header">
@@ -19,6 +20,7 @@ function Navbar () {
         </form>
     </div>
 </nav>
+    );
 }
 
 export default Navbar;
